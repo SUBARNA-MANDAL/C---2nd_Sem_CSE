@@ -1,14 +1,14 @@
 /*
-Write a program to show the real roots of a quadratic equation
+    Write a program to show the real roots of a quadratic equation
 */
 #include<stdio.h>
 #include<math.h>
 void main(){
     int a,b,c;
-    printf("Enter the value of a ,b and c accordingly --> ");
+    printf("Enter the value of a ,b and c accordingly --> ");//a ,b and c value is taken
     scanf("%d%d%d",&a,&b,&c);
 
-    if(a==0){
+    if(a==0){                                   //condition checking as per the requirement
         printf("\n=>The roots are undefined.");
        
     }

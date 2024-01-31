@@ -1,5 +1,5 @@
 /*
-    Write a program to find a key value from an integer array. 
+     Write a program to find a key value from an integer array. 
 */
 #include<stdio.h>
 void Linear(int p[],int n,int key){     //Linear search function

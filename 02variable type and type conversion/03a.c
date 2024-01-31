@@ -1,12 +1,11 @@
 /*
-Write a C program to swap two integer numbers without using any 3 variable.
-
+    Write a C program to swap two integer numbers without using any 3 variable.
 */
 
 #include<stdio.h>
 void main(){
     int a,b;
-    printf("Enter the 1st number : ");
+    printf("Enter the 1st number : ");  //input is taken
     scanf("%d",&a);
     printf("Enter the 2nd number : ");
     scanf("%d",&b);

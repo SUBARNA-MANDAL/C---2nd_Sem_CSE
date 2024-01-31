@@ -1,5 +1,5 @@
 /*
-        Write a program to calculate GCD of two integer numbers using recursion.
+         Write a program to calculate GCD of two integer numbers using recursion.
 */
 int gcd_recursion(int y,int x){                       //Recursive function 
     if((y%x) == 0) return x;                //if division possible(remainder==0) then return divisor

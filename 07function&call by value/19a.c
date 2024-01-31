@@ -1,8 +1,8 @@
 /*
-        Write a program to swap two integer values using Call by value
+     Write a program to swap two integer values using Call by value
 */
 #include<stdio.h>
-void callbyvalue(int a,int b){
+void callbyvalue(int a,int b){          //
     a = a + b - (b=a);
 }
 void main(){
@@ -14,6 +14,5 @@ void main(){
 
     printf("Before swapping x = %d and y = %d",x,y);
     callbyvalue(x,y);
-    printf("\nAfter swapping x = %d and y = %d",x,y);
-
+    printf("\nAfter swapping x = %d and y = %d",x,y);       //a & b will remains same
 }

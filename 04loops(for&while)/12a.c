@@ -10,15 +10,16 @@ Generate the patterns ----
 #include<stdio.h>
 void main(){
     int n,i,j,ch;
-    char c='a';
-    printf("Enter which types of pattern do u want to print ---");
-    printf("\n1)     *           2)        a b c d e");              
-    printf("\n     * * *                     f g h");   
+    char c='a'; 
+    //input taking which pattern user want to print
+    printf("Enter which types of pattern do u want to print ---");       
+    printf("\n1)     *           2)        a b c d e");   
+    printf("\n     * * *                     f g h");
     printf("\n   * * * * *                     i\n");
     printf("Enter which types of pattern do u want to print --> ");
     scanf("%d",&ch);
 
-    printf("Enter the number of rows : ");
+    printf("Enter the number of rows : ");      //row number taking
     scanf("%d",&n);
 
     if(ch==1){

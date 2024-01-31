@@ -1,5 +1,5 @@
 /*
-        Write a program to show the abbreviation of a person's name
+       Write a program to show the abbreviation of a person's name
 */
 #include<stdio.h>
 #include<ctype.h>

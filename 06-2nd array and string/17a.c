@@ -23,7 +23,7 @@ int without(char p[]){               // check if the string is palindrome withou
     }
     return 1;
 }
-int usingstr(char p[]){             // check if the string is palindrome using string library.
+int usingstr(char p[]){             //check if the string is palindrome using string library.
     char rev[n];                    
     strcpy(rev , p);                //copy string p to rev.
     strrev(rev);                    //reverse the string.

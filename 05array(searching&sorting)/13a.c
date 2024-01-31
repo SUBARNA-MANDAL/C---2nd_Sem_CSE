@@ -1,13 +1,11 @@
 /*
-
-Write a program to sort the elements of an integer aray in Descending order. (Use Bubble or Insertion or Selection Sort)
-
+    Write a program to sort the elements of an integer aray in Descending order. (Use Bubble or Insertion or Selection Sort)
 */
 #include<stdio.h>
 void swap(int *a,int *b){
     *a = *b + *a - (*b = *a);
 }
-void bubble(int p[],int n){
+void bubble(int p[],int n){         //bubble sort function
     int i,j;
     for(i=0;i<n-1;i++){
         for(j=0;j<n-i-1;j++){
@@ -15,7 +13,7 @@ void bubble(int p[],int n){
         }
     }
 }
-void selection(int p[],int n){
+void selection(int p[],int n){          //selection sort function
     int i,j,min;
     for(i=0;i<n-1;i++){
         min = i;
@@ -25,7 +23,7 @@ void selection(int p[],int n){
         if(i!=min)  swap(&p[min],&p[i]);
     }
 }
-void insertion(int p[],int n){
+void insertion(int p[],int n){              //insertion sort function
     int i,j,temp;
     for(i=1;i<n;i++){
         temp = p[i];

@@ -16,5 +16,5 @@ void main(){
 
     printf("Before swapping x = %d and y = %d",x,y);
     callbyvalue(&x,&y);
-    printf("\nAfter swapping x = %d and y = %d",x,y);
+    printf("\nAfter swapping x = %d and y = %d",x,y);   //a and b will changed as pointer is used
 }

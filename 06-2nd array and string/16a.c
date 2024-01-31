@@ -1,5 +1,5 @@
 /*
-Calculate the frequency of the vowels(a, e, i, o, u) in statement given by the user.
+    Calculate the frequency of the vowels(a, e, i, o, u) in statement given by the user.
 */
 #include<stdio.h>
 #include<ctype.h>
@@ -8,8 +8,8 @@ void main(){
     int c=0,i,f[5]={0};
     char  k[n];
     printf("Enter the statement : ");   //sentence input taking
-        scanf("%[^\n]s",&k);
-
+        scanf("%[^\n]s",&k);            //if %s written then only 1st word is taken 
+                                         // as input and remainings are eleminated
     for(i=0;i<k[i]!='\0';i++){                  //vowels number counting
         if(tolower(k[i])=='a')  f[0]++;
         else if(tolower(k[i])=='e')   f[1]++;

@@ -1,6 +1,6 @@
 /*
 
-Write a program to calculate maturity amount using compound interest.
+    Write a program to calculate maturity amount using compound interest.
 
 */
 #include<stdio.h>
