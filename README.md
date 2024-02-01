@@ -4,6 +4,8 @@
 
     1.Write a program to print your name and your roll number in two lines.
 
+    
+
     2.Declare an integer variable a, float b, char c, double d. Input the values, print value, address and the size of a, b, c, d.
 
 <h3 align="left">2.variable type and type conversion</h3>
@@ -80,7 +82,3 @@
     25. Write a program to create a filename "Profile.txt" and write
         your details in that file and copy the content of that file 
         into another file "myfile.txt"
-
-
-
-
