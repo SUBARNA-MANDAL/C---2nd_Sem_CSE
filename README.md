@@ -71,9 +71,9 @@
 <h3 align="left">9. pointers,structures,dynamic memory allocation</h3>
 
     24. Write a program to create a structure with the fields as name,roll no and marks (integer).
-            From this create a student database.
-            Display the name of all the students having highest marks. Use dynamic memory 
-            allocation for better memory utilization. 
+        From this create a student database.
+        Display the name of all the students having highest marks. Use dynamic memory 
+        allocation for better memory utilization. 
 
 <h3 align="left">10. filehandling</h3>
 
