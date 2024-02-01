@@ -1,5 +1,5 @@
 /*
-Write a program to calculate 
+        Write a program to calculate 
         y = ∑(x = 1 to n) (1 / fact(x)) , Where fact()) is user defined function to calculate factorial. 
 */
 #include<stdio.h>

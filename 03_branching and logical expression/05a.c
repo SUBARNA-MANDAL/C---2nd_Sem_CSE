@@ -1,5 +1,5 @@
 /*
-Write a program to check a given year is a leap year or not
+    Write a program to check a given year is a leap year or not
 */
 #include<stdio.h>
 void main(){

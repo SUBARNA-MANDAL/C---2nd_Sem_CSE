@@ -1,6 +1,6 @@
 /*
 
-Write a program to swap two integer values using Call by value
+    Write a program to swap two integer values using Call by value
 
 */
 #include<stdio.h>
