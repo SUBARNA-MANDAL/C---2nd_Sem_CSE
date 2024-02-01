@@ -4,8 +4,6 @@
 
     1.Write a program to print your name and your roll number in two lines.
 
-    
-
     2.Declare an integer variable a, float b, char c, double d. Input the values, print value, address and the size of a, b, c, d.
 
 <h3 align="left">2.variable type and type conversion</h3>
