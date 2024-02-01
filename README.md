@@ -77,6 +77,4 @@
 
 <h3 align="left">10. filehandling</h3>
 
-    25. Write a program to create a filename "Profile.txt" and write
-        your details in that file and copy the content of that file 
-        into another file "myfile.txt"
+    25. Write a program to create a filename "Profile.txt" and write your details in that file and copy the content of that file into another file "myfile.txt"
