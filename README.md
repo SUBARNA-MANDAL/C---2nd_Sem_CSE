@@ -14,11 +14,11 @@
 
 <h3 align="left">3.branching and logical expression</h3>
 
-    5.Write a program to check a given year is a leap year or not
+    5.Write a program to check a given year is a leap year or not.
 
     6.Input three numbers and find the maximum and minimum of them using Conditional operator (Ternary operator).
 
-    7.Write a program to show the real roots of a quadratic equation
+    7.Write a program to show the real roots of a quadratic equation.
 
     8.Write a program to generate a basic calculator which will perfom addition, subtraction, division and multiplication of two integer numbers.
 
@@ -37,7 +37,7 @@
 
 <h3 align="left">5. array(searching&sorting)</h3>
 
-    12.Write a program to sort the elements of an integer aray in Descending order. (Use Bubble or Insertion or Selection Sort)
+    12.Write a program to sort the elements of an integer aray in Descending order. (Use Bubble or Insertion or Selection Sort).
 
     13.Write a program to find a key value from an integer array. 
 
@@ -49,13 +49,13 @@
 
     16.Write a program to show a string whether it is palindrome or not with and without using string library function.
 
-    17.Write a program to show the abbreviation of a person's name
+    17.Write a program to show the abbreviation of a person's name.
 
 <h3 align="left">7. function&call by value</h3>
 
-    18.Write a program to swap two integer values using Call by value
+    18.Write a program to swap two integer values using Call by value.
 
-    19.Write a program to swap two integer values using Call by referance
+    19.Write a program to swap two integer values using Call by referance.
 
     20.Write a program to calculate 
         y = ∑(x = 1 to n) (1 / fact(x)) , Where fact()) is user defined function to calculate factorial. 
@@ -77,4 +77,4 @@
 
 <h3 align="left">10. filehandling</h3>
 
-    25. Write a program to create a filename "Profile.txt" and write your details in that file and copy the content of that file into another file "myfile.txt"
+    25. Write a program to create a filename "Profile.txt" and write your details in that file and copy the content of that file into another file "myfile.txt".
