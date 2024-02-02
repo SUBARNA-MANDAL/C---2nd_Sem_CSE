@@ -55,7 +55,7 @@
 
     18.Write a program to swap two integer values using Call by value
 
-    19.Write a program to swap two integer values using Call by value
+    19.Write a program to swap two integer values using Call by referance
 
     20.Write a program to calculate 
         y = ∑(x = 1 to n) (1 / fact(x)) , Where fact()) is user defined function to calculate factorial. 
